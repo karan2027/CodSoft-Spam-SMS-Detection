@@ -38,8 +38,11 @@ def transform_text(text):
     return " ".join(y)
 
 
-tk = pickle.load(open("vectorizer.pkl", 'rb'))
-model = pickle.load(open("model.pkl", 'rb'))
+import os
+base_dir = os.path.dirname(os.path.abspath(__file__))
+
+tk = pickle.load(open(os.path.join(base_dir, "vectorizer.pkl"), 'rb'))
+model = pickle.load(open(os.path.join(base_dir, "model.pkl"), 'rb'))
 
 st.title("SMS Spam Detection Model")
 st.write("*Made with ❤️‍🔥 by Chhotelal Kushwaha👨🏻‍💻*")
