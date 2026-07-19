@@ -1,0 +1,4 @@
+sms-spam-detection-main/.venv/
+sms-spam-detection-main/__pycache__/
+sms-spam-detection-main/*.pyc
+sms-spam-detection-main/.ipynb_checkpoints/
