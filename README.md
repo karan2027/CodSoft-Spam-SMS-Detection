@@ -2,14 +2,14 @@
 
 A high-performance Machine Learning model that classifies SMS messages as **Spam** or **Not Spam (Ham)**. This project includes an interactive web interface powered by Streamlit.
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://karan2027-codsoft-spam-sms-detection-app-mipm4n.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://karan2027-codsoft-spam-sms-de-sms-spam-detection-mainapp-nchemb.streamlit.app/)
 
-### 🌐 Live Demo: [karan2027-codsoft-spam-sms-detection-app-mipm4n.streamlit.app](https://karan2027-codsoft-spam-sms-detection-app-mipm4n.streamlit.app/)
+### 🌐 Live Demo: [karan2027-codsoft-spam-sms-de-sms-spam-detection-mainapp-nchemb.streamlit.app](https://karan2027-codsoft-spam-sms-de-sms-spam-detection-mainapp-nchemb.streamlit.app/)
 
 ---
 
 ## Application Interface
-![App Screenshot](screenshot.png)
+![App Screenshot](sms-spam-detection-main/screenshot.png)
 
 ---
 
